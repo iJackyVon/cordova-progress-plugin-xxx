@@ -1,0 +1,27 @@
+{
+  "name": "cordova-progress-plugin",
+  "version": "1.0.0",
+  "description": "an ios progressindicator which can dismiss automatically",
+  "cordova": {
+    "id": "cordova-progress-plugin",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iJackyVon/cordova-progress-plugin"
+  },
+  "keywords": [
+    "ios",
+    "progress",
+    "cordova",
+    "automatically"
+  ],
+  "author": "nemo",
+  "license": "MIT",
+}
